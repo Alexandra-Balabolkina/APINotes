@@ -23,7 +23,7 @@ docker compose up
 ```
 ## Postman
 
-
+https://github.com/Alexandra-Balabolkina/APINotes/blob/develop/notes%20api.postman_collection.json
 
 
 ## CURL
